@@ -11,7 +11,7 @@ HairyWoodpecker.html - here showing more formatting using lists , paragraphs and
 back to the index.html aswell as a link that will open in a new tab the wikipedia page of the bird. 
 ![HairyWoodpecker skærmbilled](https://user-images.githubusercontent.com/62332995/77067320-14772000-69e5-11ea-8a4a-326b29ad9bd8.jpg)
 
-Screenshots are taking with the croppingtool provided by windows10, i've cropped anything not related to the site out. 
+Screenshots are taking with the croppingtool provided by windows10, i've cropped anything not related to the site out. Screenshots are made in Chrome in Darkmode, so the background of the site is not black with white text FYI
 
 ### Ending note.
 coded exclusively in HTML using Visual Studio, plans are to format it further later in development in CSS.
