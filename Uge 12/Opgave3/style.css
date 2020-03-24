@@ -1,14 +1,33 @@
+header
+{
+    background-color: #A9BED9;
+}
+
+main
+{
+    background-color: #A9BED9;
+}
+
+footer
+{
+
+}
+
+
 h1
 {
-    color: midnightblue;
+    color: #8C471F;
+    
 }
+
+
 
 article
 {
-    color: blue;
+    color: black;
 }
 
 h2
 {
-    color: steelblue;
+    color: #8C471F;
 }
