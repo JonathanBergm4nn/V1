@@ -1,6 +1,7 @@
 body
 {
     background-color:  #A9BED9;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 header
@@ -21,14 +22,17 @@ footer
 h1
 {
     color: #8C471F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 article
 {
     color: black;
+
 }
 
 h2
 {
     color: #8C471F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
