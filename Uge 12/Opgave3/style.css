@@ -1,12 +1,14 @@
 body
 {
     background-color:  #A9BED9;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 header
 {
     background-color: #A9BED9;
+    
 }
 
 main
@@ -19,7 +21,7 @@ footer
     background-color: #A9BED9;
 }
 
-h1
+h1, h2
 {
     color: #8C471F;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -33,6 +35,23 @@ article
 
 h2
 {
-    color: #8C471F;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.row
+{
+    background-color: yellow;   
+}
+
+.row-element
+{
+    display: inline-block;
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
