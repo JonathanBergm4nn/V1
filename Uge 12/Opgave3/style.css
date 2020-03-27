@@ -2,24 +2,48 @@ body
 {
     background-color:  #A9BED9;
     font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+header img
+{
+    width: 100%;
+    float: none;
+}
+
+
+nav
+{
+    text-align: center;
+    background-color: #8C471F;
+    height: 40px;
+    line-height: 40px;
+}
+
+
+nav a
+{
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 0 80px;
+    text-transform: uppercase;
     
 }
 
-header
+
+img
 {
-    background-color: #A9BED9;
-    
+    float: left;
 }
 
-main
-{
-    background-color: #A9BED9;
-}
 
-footer
-{
-    background-color: #A9BED9;
-}
+
+
+
 
 h1, h2
 {
@@ -33,11 +57,6 @@ article
 
 }
 
-h2
-{
-
-}
-
 .row
 {
     background-color: yellow;   
@@ -46,12 +65,10 @@ h2
 .row-element
 {
     display: inline-block;
+    text-align: center;
 }
 
-.center 
+ul
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    list-style-position: inside;
 }
