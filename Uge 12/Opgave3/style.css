@@ -1,3 +1,10 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
 body
 {
     background-color:  #A9BED9;
@@ -71,4 +78,21 @@ article
 ul
 {
     list-style-position: inside;
+}
+
+.birdimg
+{
+    float: left;
+    margin-right: 10px;
+}
+
+.birdfacts
+{
+    height: 212px;
+    background-color: skyblue;
+    line-height: 1.5;
+    padding: 10px;
+    border-color: #8C471F;
+    border-style: solid;
+    border-width: 3px;
 }
