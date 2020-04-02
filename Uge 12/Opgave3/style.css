@@ -5,9 +5,9 @@
 }
 
 
-header, main
+header
 {
-
+margin-top: 20px;
 
 }
 
@@ -37,10 +37,11 @@ nav, footer
     background-color: #8C471F;
     height: 50px;
     line-height: 50px;
+    width: 100%;
 }
 
 
-nav a, footer
+nav a
 {
     text-decoration: none;
     color: whitesmoke;
@@ -62,6 +63,7 @@ h1
     font-size:50px;
     text-transform: uppercase;
     text-shadow: -2px -2px 8px silver;
+
 }
 
 
@@ -74,6 +76,7 @@ h1, h2
 {
     color: #8C471F;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 article
