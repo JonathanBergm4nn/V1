@@ -9,7 +9,15 @@ header
 {
     margin-top: 20px;
     position: sticky;
-   
+
+}
+
+header img
+{
+    width: 100%;
+    float: none;
+    text-decoration: none;
+    
 }
 
 body
@@ -28,8 +36,11 @@ nav
 {
     position: sticky;
     top: 10px;
+    border-radius: 20px;
     
 }
+
+
 
 nav, footer
 {
@@ -65,11 +76,7 @@ nav ul li ul
 {
     display: none;
     position: absolute;
-    background-color: #8C471F;
-    
-
-    
-    
+    background-color: #8C471F; 
 }
 
 nav ul li ul li
@@ -96,12 +103,12 @@ nav ul li:hover ul
 
 
 
-header img
+
+
+
+footer
 {
-    width: 100%;
-    float: none;
-    text-decoration: none;
-    
+    border-radius: 20px 20px 0px 0px;
 }
 
 
@@ -110,13 +117,14 @@ img
     float: left;
 }
 
-
+/* fonts, colours */
 
 h1
 {
     font-size:50px;
     text-transform: uppercase;
     text-shadow: -2px -2px 8px silver;
+    margin: 20px 0px;
 
 }
 
@@ -128,6 +136,7 @@ a
 h2
 {
     font-size: 30px;
+    margin: 15px 0px;
 
 }
 
@@ -140,10 +149,12 @@ h1, h2
 
 article
 {
-    color: black;
+    color: darkslategray;
 
 }
 
+
+/* Fugle billeder menu  */
 
 .birdindex
 {
@@ -189,3 +200,7 @@ ul
     border-width: 3px;
 }
 
+.birdindex img
+{
+    border-radius: 20px;
+}
